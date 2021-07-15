@@ -23,4 +23,4 @@ public class Pilha {
 	public String toString() {
 		return nomes.toString();
 	}
-}
+} 
