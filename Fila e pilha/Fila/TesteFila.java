@@ -13,7 +13,7 @@ public class Testefila {
 		fila.adiciona ("Feijão");
 		
 		System.out.println(fila);
-		
+	
 		String x1 = fila.remove();
 		
 		System.out.println(x1);
