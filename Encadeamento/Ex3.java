@@ -25,3 +25,4 @@ public class ex1 {
 		System.out.println("Soma dos números da lista: " +soma);
 }
 }
+ 
